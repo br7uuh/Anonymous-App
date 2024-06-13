@@ -1,8 +1,8 @@
 # anonymous_app
 
-A new Flutter project.
+Anonymous Chat App
 
-## Getting Started
+Welcome to our groundbreaking Anonymous chatting app designed for safe and private conversations on sensitive topics.
 
-This project is a starting point for a Flutter application.
+https://gamma.app/docs/Anonymous-Chat-App-0q0ofblxezcurpf
 
